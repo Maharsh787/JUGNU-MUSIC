@@ -9,7 +9,7 @@ const defaultSettings = {
 const embedSettings = {
   color: Colors.Blurple,
   wrongcolor: Colors.Red,
-  footertext: "By Kabir Jaipal | Fire Bird",
+  footertext: "By Maharsh",
 };
 
 const emojiSettings = {
@@ -78,9 +78,9 @@ const filters = {
 
 const links = {
   inviteURL: `https://discord.com/api/oauth2/authorize?client_id=BOTID&permissions=8&scope=bot%20applications.commands`,
-  DiscordServer: `https://discord.gg/FuKfAREn9f`,
-  VoteURL: `https://discord.gg/FuKfAREn9f`,
-  Website: `https://jugnu.netlify.app/`,
+  DiscordServer: `https://discord.com/invite/nPSHTBNxTb`,
+  VoteURL: `https://discord.com/invite/nPSHTBNxTb`,
+  Website: ``,
 };
 
 const options = {
